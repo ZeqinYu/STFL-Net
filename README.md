@@ -1,7 +1,7 @@
 # STFL-Net and STFD
 
 > **TODO**
-> - [ ] 📦 **Release STFL-Net code & pretrained weights**  
+> - [ ] 📦 **Release STFL-Net code & checkpoints**  
 > - [ ] 🔗 **Publish full STFD dataset download links**
 
 Official PyTorch implementation of **STFL-Net** and the **STFD** dataset from our ICASSP 2023 paper:
