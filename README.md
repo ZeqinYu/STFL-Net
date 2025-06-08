@@ -8,6 +8,8 @@
 
 Official PyTorch implementation of **STFL-Net** and the **STFD** dataset from our ICASSP 2023 paper:
 
+The STFD dataset is only available for non-commercial use, you can request a password for it by sending an email with education email to yuzq9@mail2.sysu.edu.cn explaining the purpose.
+
 **“Learning to Locate the Text Forgery in Smartphone Screenshots”**.
 
 **Zeqin Yu**, Bin Li, Yuzhen Lin, Jinhua Zeng, Jishen Zeng  
