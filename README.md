@@ -7,7 +7,7 @@ Official PyTorch implementation of **STFL-Net** and the **STFD** dataset from ou
 **Zeqin Yu**, Bin Li, Yuzhen Lin, Jinhua Zeng, Jishen Zeng  
 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023)
 
-_In collaboration with **Alibaba Security**_
+(_In collaboration with **Alibaba Security**_)
 
 > - Parts of **STFD** were adopted in the <br>
 >   □ ["2022 Real-World Image Forgery Detection Challenge" (真实场景篡改图像检测挑战赛)](https://tianchi.aliyun.com/competition/entrance/531945/introduction?spm=5176.12281949.1003.1.c90d2448TlNT6k).  
