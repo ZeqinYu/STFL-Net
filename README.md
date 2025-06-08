@@ -1,7 +1,8 @@
 # STFL-Net
 
-Official PyTorch implementation of **STFL-Net** and the **STFD** dataset from our ICASSP 2023 paper **“Learning to Locate the Text Forgery in Smartphone Screenshots”** <span style="color:red;">(New Benchmark!)</span>.
+Official PyTorch implementation of **STFL-Net** and the **STFD** dataset from our ICASSP 2023 paper:
 
+**“Learning to Locate the Text Forgery in Smartphone Screenshots”** <span style="color:red;">(New Benchmark!)</span>.
 **Zeqin Yu**, Bin Li, Yuzhen Lin, Jinhua Zeng, Jishen Zeng  
 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023)
 
