@@ -1,11 +1,8 @@
-# STFL-Net
+# STFL-Net and STFD
 
 > **TODO**
-> - [ ] 🔗 **Publish full STFD download links** (Google Drive & HuggingFace)  
-> - [ ] 📦 **Upload pretrained STFL-Net weights** (PyTorch `.pth` & ONNX)  
-> - [ ] 📝 **Add Colab / Jupyter demo notebook** for one-click inference  
-> - [ ] 🛠 **Release training configs & logs** for full reproducibility  
-> - [ ] ⚡ **Provide TensorRT / mobile export script** for real-time deployment 
+> - [ ] 📦 **Release STFL-Net code & pretrained weights**  
+> - [ ] 🔗 **Publish full STFD dataset download links**
 
 Official PyTorch implementation of **STFL-Net** and the **STFD** dataset from our ICASSP 2023 paper:
 
