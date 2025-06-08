@@ -17,8 +17,7 @@ IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP
 > - Parts of **STFD** were adopted in the <br>
 >   □ ["2022 Real-World Image Forgery Detection Challenge" (真实场景篡改图像检测挑战赛)](https://tianchi.aliyun.com/competition/entrance/531945/introduction?spm=5176.12281949.1003.1.c90d2448TlNT6k).  
 > - 🧐 *Funny story*: We discovered that another subset of **STFD** resurfaced in the ICDAR 2023 competitions under a different partnership, although the organizers have not publicly disclosed the source: <br>
->   □ ["DTT in Images 1: Text Manipulation Classification"](https://tianchi.aliyun.com/competition/entrance/532048/rankingList) and <br>
->   □ ["DTT in Images 2: Text Manipulation Detection"](https://tianchi.aliyun.com/competition/entrance/532052/introduction?spm=5176.12281957.0.0.4c885d9bYCL71E).  
+>   □ ["DTT in Images 1: Text Manipulation Classification"](https://tianchi.aliyun.com/competition/entrance/532048/rankingList) and ["DTT in Images 2: Text Manipulation Detection"](https://tianchi.aliyun.com/competition/entrance/532052/introduction?spm=5176.12281957.0.0.4c885d9bYCL71E).  
 > - **If you use data from any of these challenges, please cite our paper.**
 
 The STFD dataset is only available for non-commercial use, you can request a password for it by sending an email with education email to yuzq9@mail2.sysu.edu.cn explaining the purpose.
