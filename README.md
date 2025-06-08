@@ -1,5 +1,12 @@
 # STFL-Net
 
+> **TODO**
+> - [ ] 🔗 **Publish full STFD download links** (Google Drive & HuggingFace)  
+> - [ ] 📦 **Upload pretrained STFL-Net weights** (PyTorch `.pth` & ONNX)  
+> - [ ] 📝 **Add Colab / Jupyter demo notebook** for one-click inference  
+> - [ ] 🛠 **Release training configs & logs** for full reproducibility  
+> - [ ] ⚡ **Provide TensorRT / mobile export script** for real-time deployment 
+
 Official PyTorch implementation of **STFL-Net** and the **STFD** dataset from our ICASSP 2023 paper:
 
 **“Learning to Locate the Text Forgery in Smartphone Screenshots”**.
