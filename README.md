@@ -1,7 +1,8 @@
 # STFL-Net and STFD
 
 > **TODO (coming soon!)**
-> - [ ] 📦 **Release STFL-Net code & checkpoints**   (planned for release after mid-September 2025)  
+>    (planned for release after mid-September 2025)  
+> - [ ] 📦 **Release STFL-Net code & checkpoints**
 > - [ ] 🔗 **Publish full STFD dataset download links**
 
 ---
