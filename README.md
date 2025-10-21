@@ -21,7 +21,7 @@ IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP
 >   □ ["DTT in Images 1: Text Manipulation Classification"](https://tianchi.aliyun.com/competition/entrance/532048/rankingList) and ["DTT in Images 2: Text Manipulation Detection"](https://tianchi.aliyun.com/competition/entrance/532052/introduction?spm=5176.12281957.0.0.4c885d9bYCL71E).  
 > - **If you use data from any of these challenges, please cite our paper.**
 
-The STFD dataset is only available for non-commercial use, you can request a password for it by sending an email with education email to yuzq9@mail2.sysu.edu.cn explaining the purpose.
+The STFD dataset is only available for non-commercial use, you can request a password for it by sending an email with education email to kimjyu@foxmail.com explaining the purpose.
 
 ---
 ## Some Examples
