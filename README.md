@@ -4,6 +4,7 @@
 
 Official implementation of **STFL-Net** and the **STFD** dataset from our ICASSP 2023 paper “Learning to Locate the Text Forgery in Smartphone Screenshots”. <br>
 [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/ZeqinYu/STFL-Net) [![Paper](https://img.shields.io/badge/Paper-PDF-informational)](https://ieeexplore.ieee.org/abstract/document/10095070/) [![New Benchmark](https://img.shields.io/badge/New-Benchmark-red)](https://github.com/ZeqinYu/STFL-Net) <br> 
+Zeqin Yu, Bin Li, Yuzhen Lin, Jinhua Zeng, Jishen Zeng  
 
 (_In collaboration with **Alibaba Security**_)
 
