@@ -1,17 +1,9 @@
 # STFL-Net and STFD
 
-> **TODO (coming soon!)**
->    (planned for release after mid-September 2025)  
-> - [ ] 📦 **Release STFL-Net code & checkpoints**
-> - [ ] 🔗 **Publish full STFD dataset download links**
-
 ---
 
-Official PyTorch implementation of **STFL-Net** and the **STFD** dataset from our ICASSP 2023 paper:
-
-**Learning to Locate the Text Forgery in Smartphone Screenshots**. <br>
-**Zeqin Yu**, Bin Li, Yuzhen Lin, Jinhua Zeng, Jishen Zeng  
-IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023)
+Official implementation of **STFL-Net** and the **STFD** dataset from our ICASSP 2023 paper “Learning to Locate the Text Forgery in Smartphone Screenshots”. <br>
+[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/ZeqinYu/STFL-Net) [![Paper](https://img.shields.io/badge/Paper-PDF-informational)](https://ieeexplore.ieee.org/abstract/document/10095070/) [![New Benchmark](https://img.shields.io/badge/New-Benchmark-red)](https://github.com/ZeqinYu/STFL-Net) <br> 
 
 (_In collaboration with **Alibaba Security**_)
 
@@ -24,6 +16,12 @@ IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP
 The STFD dataset is only available for non-commercial use, you can request a password for it by sending an email with education email to kimjyu@foxmail.com explaining the purpose.
 
 ---
+
+> **TODO (coming soon!)**
+>    (planned for release after mid-September 2025)  
+> - [ ] 📦 **Release STFL-Net code & checkpoints**
+> - [ ] 🔗 **Publish full STFD dataset download links**
+
 ## Some Examples
 
 <!-- 4-column image strip -->
