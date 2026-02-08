@@ -23,15 +23,7 @@ The STFD dataset is only available for non-commercial use, you can request a pas
 > - [ ] 📦 **Release STFL-Net code & checkpoints**
 > - [ ] 🔗 **Publish full STFD dataset download links**
 
-## Some Examples
-
-<!-- 4-column image strip -->
-<p align="center">
-  <img src="docs/figs/fig1.png" alt="Figure 1" width="24%"/>
-  <img src="docs/figs/fig2.png" alt="Figure 2" width="24%"/>
-  <img src="docs/figs/fig3.png" alt="Figure 3" width="24%"/>
-  <img src="docs/figs/fig4.png" alt="Figure 4" width="24%"/>
-</p>
+## Overview
 
 ---
 
