@@ -57,7 +57,10 @@ Zeqin Yu, Bin Li, Yuzhen Lin, Jinhua Zeng, Jishen Zeng
 </p>
 
 #### Replacement
-
+<p align="center">
+  <img src="imgs/1d7b444730be83cb2f0c2aae0a78c315.png" width="45%" style="margin-right:30px;"/>
+  <img src="imgs/a0f61f66a5ebe69526b79f6f2b6879ed.png" width="45%"/>
+</p>
 
 ### Dataset Structure
 ```text
