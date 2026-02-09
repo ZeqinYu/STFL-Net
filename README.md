@@ -38,6 +38,11 @@ Zeqin Yu, Bin Li, Yuzhen Lin, Jinhua Zeng, Jishen Zeng
   <img src="imgs/fe591d44ebe6f6fb7d5558cd2b655e49.png" width="45%"/>
 </p>
 
+#### Splicing
+#### Removal
+#### Insertion
+#### Replacement
+
 
 ### Dataset Structure
 ```text
