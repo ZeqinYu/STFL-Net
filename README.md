@@ -32,7 +32,15 @@ Zeqin Yu, Bin Li, Yuzhen Lin, Jinhua Zeng, Jishen Zeng
 | Devices | Realme Q3 Pro, Oppo Reno1, Honor 9, Honor V30, Vivo X21s, Samsung Note20 Ultra, Vivo X60, Honor 30-1, Xiaomi 9, Honor V20, Nova 8, OnePlus 9, Huawei Mate30, Honor 30-2, Honor 20 Pro, iPhone 7, iPad Air 3, iPad 2020, iPhone 12, iPhone XS, iPhone 11, iPhone SE2, iPhone 14 Pro, MacBook Air 2015, MacBook Pro 2017, Win10 Dell Optiplex 7080, Win11 Xiaomi Air14, Win10 Xiaomi Air14 |
 | Format  | PNG / JPEG |
 
+### Some Examples
 
+<!-- 4-column image strip -->
+<p align="center">
+  <img src="docs/figs/fig1.png" alt="Figure 1" width="24%"/>
+  <img src="docs/figs/fig2.png" alt="Figure 2" width="24%"/>
+  <img src="docs/figs/fig3.png" alt="Figure 3" width="24%"/>
+  <img src="docs/figs/fig4.png" alt="Figure 4" width="24%"/>
+</p>
 
 ---
 
