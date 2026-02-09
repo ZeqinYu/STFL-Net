@@ -40,8 +40,8 @@ Zeqin Yu, Bin Li, Yuzhen Lin, Jinhua Zeng, Jishen Zeng
 
 #### Splicing
 <p align="center">
-  <img src="imgs/c67e92a92e8bb4aa95541d6359f5e18e.png" width="45.6%" style="margin-right:30px;"/>
-  <img src="imgs/fcb556cba9a4ca85ed41a96ded1fa198.png" width="45%"/>
+  <img src="imgs/fcb556cba9a4ca85ed41a96ded1fa198.png" width="45%" style="margin-right:30px;"/>
+  <img src="imgs/c67e92a92e8bb4aa95541d6359f5e18e.png" width="45%"/>
 </p>
 
 #### Removal
