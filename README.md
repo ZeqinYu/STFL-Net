@@ -16,7 +16,7 @@ Zeqin Yu, Bin Li, Yuzhen Lin, Jinhua Zeng, Jishen Zeng
 
 ---
 ## 📰 News
-* **[2026.02.09]** We have updated the dataset details and added example samples.
+* **[2026.02.09]** 🔥 We have updated the dataset details and added example samples.
 
 > **TODO (coming soon!)** 
 > - [ ] 📦 **Release STFL-Net code & checkpoints**
