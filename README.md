@@ -42,6 +42,25 @@ Zeqin Yu, Bin Li, Yuzhen Lin, Jinhua Zeng, Jishen Zeng
   <img src="docs/figs/fig4.png" alt="Figure 4" width="24%"/>
 </p>
 
+### Dataset Structure
+
+STFD/
+├── 1_Copy-move/
+│   ├── tamper/          # tampered screenshots (copy-move)
+│   ├── masks/           # binary masks (same filename as tamper)
+├── 2_Splicing/
+│   ├── tamper/
+│   ├── masks/
+├── 3_Removal/
+│   ├── tamper/
+│   ├── masks/
+├── 4_Insertion/
+│   ├── tamper/
+│   ├── masks/
+└── 5_Replacement/
+    ├── tamper/
+    ├── masks/
+
 ---
 
 
