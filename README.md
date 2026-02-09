@@ -45,7 +45,7 @@ Zeqin Yu, Bin Li, Yuzhen Lin, Jinhua Zeng, Jishen Zeng
 ### Some Examples (Copy-Move)
 
 <p align="center">
-  <img src="imgs/com/0ba51385ddc8ade89a53f4b5881abf9b.png" width="48%"/>
+  <img src="https://github.com/ZeqinYu/STFL-Net/blob/main/0ba51385ddc8ade89a53f4b5881abf9b.png" width="48%"/>
   <img src="imgs/com/71b46d971a0d054b562955442a648f7d.png" width="48%"/>
 </p>
 
