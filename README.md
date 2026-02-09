@@ -68,8 +68,14 @@ Zeqin Yu, Bin Li, Yuzhen Lin, Jinhua Zeng, Jishen Zeng
 ```text
 STFD/
 ├── 1_Copy-move/
-│   ├── tamper/   # tampered screenshots (copy-move)
-│   └── masks/    # binary masks (same filename as tamper)
+│   ├── tamper/ # tampered screenshots (copy-move)
+│   │   ├── 0a31c69e308a843cee5f0ad08799b61b.png
+│   │   ├── 0ba9fbaa8f4918ac92aa2e14f578a3a1.png
+│   │   └── ...
+│   └── masks/ # binary masks (same filename as tamper)
+│       ├── 0a31c69e308a843cee5f0ad08799b61b.png
+│       ├── 0ba9fbaa8f4918ac92aa2e14f578a3a1.png
+│       └── ...
 ├── 2_Splicing/
 │   ├── tamper/
 │   └── masks/
