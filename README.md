@@ -46,7 +46,7 @@ Zeqin Yu, Bin Li, Yuzhen Lin, Jinhua Zeng, Jishen Zeng
 
 #### Removal
 <p align="center">
-  <img src="imgs/e8439b9e91077c3e2a1a549dd0fdaa07.png" width="45%" style="margin-right:30px;"/>
+  <img src="imgs/e8439b9e91077c3e2a1a549dd0fdaa07.png" width="45.6%" style="margin-right:30px;"/>
   <img src="imgs/fc539af84b2ff19904f18b457c6856e6.png" width="45%"/>
 </p>
 
