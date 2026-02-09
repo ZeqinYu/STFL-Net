@@ -32,18 +32,7 @@ Zeqin Yu, Bin Li, Yuzhen Lin, Jinhua Zeng, Jishen Zeng
 | Format  | PNG / JPEG |
 
 ### Some Examples
-
-<!-- 4-column image strip -->
-<p align="center">
-  <img src="docs/figs/fig1.png" alt="Figure 1" width="24%"/>
-  <img src="docs/figs/fig2.png" alt="Figure 2" width="24%"/>
-  <img src="docs/figs/fig3.png" alt="Figure 3" width="24%"/>
-  <img src="docs/figs/fig4.png" alt="Figure 4" width="24%"/>
-</p>
-
-
-### Some Examples (Copy-Move)
-
+#### Copy-Move
 <p align="center">
   <img src="imgs/com/0ba51385ddc8ade89a53f4b5881abf9b.png" width="45%" style="margin-right:30px;"/>
   <img src="imgs/com/0ba51385ddc8ade89a53f4b5881abf9b.png" width="45%"/>
