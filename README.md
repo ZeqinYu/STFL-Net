@@ -23,6 +23,16 @@ Zeqin Yu, Bin Li, Yuzhen Lin, Jinhua Zeng, Jishen Zeng
 
 ## Overview
 
+### Screenshot Sources
+
+| Category | Description |
+|----------|-------------|
+| Systems | Android / HarmonyOS / iOS / Windows |
+| Scenes  | Wechat / payment / web / social media / UI |
+| Devices | multi-brand smartphones & computers |
+
+
+
 ---
 
 
