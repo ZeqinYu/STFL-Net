@@ -56,7 +56,7 @@ Zeqin Yu, Bin Li, Yuzhen Lin, Jinhua Zeng, Jishen Zeng
 
 <p align="center">
   <img src="imgs/com/0ba51385ddc8ade89a53f4b5881abf9b.png" width="45%" style="margin-right:10px;"/>
-  <img src="imgs/com/71b46d971a0d054b562955442a648f7d.png" width="45%"/>
+  <img src="imgs/com/0ba51385ddc8ade89a53f4b5881abf9b.png" width="45%"/>
 </p>
 
 
