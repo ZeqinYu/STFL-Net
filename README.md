@@ -16,8 +16,7 @@ Zeqin Yu, Bin Li, Yuzhen Lin, Jinhua Zeng, Jishen Zeng
 
 ---
 
-> **TODO (coming soon!)**
->    (planned for release after mid-September 2025)  
+> **TODO (coming soon!)** 
 > - [ ] 📦 **Release STFL-Net code & checkpoints**
 > - [ ] 🔗 **Publish full STFD dataset download links**
 
