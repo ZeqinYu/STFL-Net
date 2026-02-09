@@ -35,7 +35,7 @@ Zeqin Yu, Bin Li, Yuzhen Lin, Jinhua Zeng, Jishen Zeng
 #### Copy-Move
 <p align="center">
   <img src="imgs/com/0ba51385ddc8ade89a53f4b5881abf9b.png" width="45%" style="margin-right:30px;"/>
-  <img src="imgs/com/0ba51385ddc8ade89a53f4b5881abf9b.png" width="45%"/>
+  <img src="imgs/com/fe591d44ebe6f6fb7d5558cd2b655e49.png" width="45%"/>
 </p>
 
 
