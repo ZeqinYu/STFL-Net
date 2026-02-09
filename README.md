@@ -27,7 +27,7 @@ Zeqin Yu, Bin Li, Yuzhen Lin, Jinhua Zeng, Jishen Zeng
 
 | Category | Description |
 |----------|-------------|
-| Systems | Android / HarmonyOS / iOS / Windows |
+| Systems | Android<br>HarmonyOS<br>iOS<br>Windows |
 | Scenes  | Wechat / payment / web / social media / UI |
 | Devices | multi-brand smartphones & computers |
 
