@@ -35,31 +35,36 @@ The screenshots were captured from real devices to reflect realistic usage scena
 | Format  | PNG / JPEG |
 
 ### Tampering Examples
-#### Copy-Move: copy a text region and paste it to another location within the same image.
+#### Copy-Move
+Copy a text region and paste it to another location within the same image.
 <p align="center">
   <img src="imgs/com/0ba51385ddc8ade89a53f4b5881abf9b.png" width="45.6%" style="margin-right:30px;"/>
   <img src="imgs/fe591d44ebe6f6fb7d5558cd2b655e49.png" width="45%"/>
 </p>
 
 #### Splicing
+Paste text regions from another image into the target image.
 <p align="center">
   <img src="imgs/fcb556cba9a4ca85ed41a96ded1fa198.png" width="45%" style="margin-right:30px;"/>
   <img src="imgs/c67e92a92e8bb4aa95541d6359f5e18e.png" width="45%"/>
 </p>
 
 #### Removal
+Remove existing text and fill the region using inpainting.
 <p align="center">
   <img src="imgs/e8439b9e91077c3e2a1a549dd0fdaa07.png" width="45.6%" style="margin-right:30px;"/>
   <img src="imgs/fc539af84b2ff19904f18b457c6856e6.png" width="45%"/>
 </p>
 
 #### Insertion
+Insert new text content into blank regions.
 <p align="center">
   <img src="imgs/b9e25cfd9889269c1d60e10dda4539df.png" width="45%" style="margin-right:30px;"/>
   <img src="imgs/e871a802328f0bbbf445fab592a319b1.png" width="45%"/>
 </p>
 
 #### Replacement
+Replace original text with newly generated text.
 <p align="center">
   <img src="imgs/a0f61f66a5ebe69526b79f6f2b6879ed.png" width="45%" style="margin-right:30px;"/>
   <img src="imgs/1d7b444730be83cb2f0c2aae0a78c315.png" width="45.55%"/>
