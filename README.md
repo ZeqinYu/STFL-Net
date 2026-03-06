@@ -21,7 +21,7 @@ Zeqin Yu, Bin Li, Yuzhen Lin, Jinhua Zeng, Jishen Zeng
 
   The email should include:
 
-  * Your **name, affiliation, and personal homepage (if available)**
+  * Your **name, affiliation, and homepage (if available)**
   * Your **supervisor's name, affiliation, and homepage (if available)**
   * A **brief description of your research purpose**
 * **[2026.02.09]** 🔥 We have updated the dataset details and added example samples.
