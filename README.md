@@ -25,6 +25,7 @@ Zeqin Yu, Bin Li, Yuzhen Lin, Jinhua Zeng, Jishen Zeng
 ## Overview
 
 ### Screenshot Sources
+The screenshots were captured from real devices to reflect realistic usage scenarios.
 
 | Category | Description |
 |----------|-------------|
