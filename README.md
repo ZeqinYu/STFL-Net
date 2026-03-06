@@ -17,7 +17,7 @@ Zeqin Yu, Bin Li, Yuzhen Lin, Jinhua Zeng, Jishen Zeng
 ---
 ## 📰 News
 * **[2026.03.06]** 🔥🔥 The **STFD dataset** has been publicly released ([Google Drive]() / [Baidu Netdisk]()).
-  Please send an email to **[kimjyu@foxmail.com](mailto:kimjyu@foxmail.com)** using your **academic email address** to request access.
+  Please send an email to **[kimjyu@foxmail.com](mailto:kimjyu@foxmail.com)** using your **academic or institutional email address** to request access.
 
   The email should include:
 
