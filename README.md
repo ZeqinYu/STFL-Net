@@ -36,6 +36,7 @@ The screenshots were captured from real devices to reflect realistic usage scena
 
 ### Tampering Examples
 #### Copy-Move
+copy a text region and paste it to another location within the same image.
 <p align="center">
   <img src="imgs/com/0ba51385ddc8ade89a53f4b5881abf9b.png" width="45.6%" style="margin-right:30px;"/>
   <img src="imgs/fe591d44ebe6f6fb7d5558cd2b655e49.png" width="45%"/>
