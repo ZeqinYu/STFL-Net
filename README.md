@@ -27,7 +27,7 @@ Zeqin Yu, Bin Li, Yuzhen Lin, Jinhua Zeng, Jishen Zeng
 * **[2026.02.09]** 🔥 We have updated the dataset details and added example samples.
 
 > **TODO (coming soon!)** 
-> - [ ] 📦 **Release STFL-Net code & checkpoints**
+> - [x] 📦 **Release STFL-Net code & checkpoints**
 > - [x] 🔗 **Publish full STFD dataset download links**
 
 ## Overview
