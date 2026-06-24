@@ -16,14 +16,11 @@ Zeqin Yu, Bin Li, Yuzhen Lin, Jinhua Zeng, Jishen Zeng
 
 ---
 ## 📰 News
+
 * **[2026.03.06]** 🔥🔥 The **STFD dataset** has been publicly released ([Google Drive](https://drive.google.com/file/d/12MvM1R4R2iE-KGZmB1BSAXqR1Wo1kPIj/view?usp=sharing) / [Baidu Netdisk](https://pan.baidu.com/s/1kMYMB8avIafrusl30EzXcA) (dwmg) / [Hugging Face](https://huggingface.co/datasets/Zegkim/STFD)).
-  Please send an email to **kimjyu@foxmail.com** using your **academic or institutional email address** to request the password for extracting the dataset.
 
-  The email should include:
+  The password for extracting the dataset is: **STFD_ICASSP2023**.
 
-  * Your **name, affiliation, and homepage (if available)**
-  * Your **supervisor's name, affiliation, and homepage (if available)**
-  * A **brief description of your research purpose**
 * **[2026.02.09]** 🔥 We have updated the dataset details and added example samples.
 
 > **TODO (coming soon!)** 
